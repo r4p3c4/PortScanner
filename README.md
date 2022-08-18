@@ -1,2 +1,2 @@
-# PortScanerTcp
+# PortScaner
 Podrás escanear todos puertos de un dominio o dirección IP 
