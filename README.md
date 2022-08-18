@@ -5,3 +5,9 @@ Podrás escanear todos puertos de un dominio o dirección IP
 
 sudo apt-get update
 
+**Instalas git**
+
+sudo apt-get install git
+
+**Accedes al Desktop**
+
