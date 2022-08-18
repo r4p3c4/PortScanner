@@ -4,6 +4,8 @@ Podrás escanear todos puertos de un dominio o dirección IP
 # Linkedin
 <a href="https://www.linkedin.com/in/rafael-peiro-calvet/"><img src="https://i.postimg.cc/8zsFGvXV/logo.jpg"></a>
 
+# Requisitos y pasos a seguir
+
 **Actualizas los paquetes**
 
 sudo apt-get update
