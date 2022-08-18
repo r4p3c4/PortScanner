@@ -12,7 +12,7 @@ dia=$(date +"%a %b %d")
 hora=$(date +"%H:%M:%S")
 ano=$(date +"%Y")
 
-echo "EIPmap desarrollado por el estudiante ${green}Rafael Peiró Calvet"
+echo "PortScanner desarrollado por ${green}Rafael Peiró Calvet"
 echo -e "${white}Hora de ejecución: ${yellow}$dia $hora $ano\n"
 
 #Si los argumentos no son iguales a 1 va a imprimir este mensaje por pantalla y se saldrá de la ejecución del script
