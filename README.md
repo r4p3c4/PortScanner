@@ -1,7 +1,9 @@
 # PortScanner
+
 Podrás escanear todos puertos de un dominio o dirección IP 
 
 # Linkedin
+
 <a href="https://www.linkedin.com/in/rafael-peiro-calvet/"><img src="https://i.postimg.cc/8zsFGvXV/logo.jpg"></a>
 
 # Requisitos y pasos a seguir
@@ -10,7 +12,7 @@ Podrás escanear todos puertos de un dominio o dirección IP
 
 sudo apt-get update
 
-<img src="https://i.postimg.cc/15jyBXHq/01.jpg">
+<img src="https://i.postimg.cc/4yWDN99f/01.jpg">
 
 **Instalas git**
 
