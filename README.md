@@ -59,7 +59,7 @@ sudo git clone https://github.com/r4p3c4/PortScanner.git
 
 <img src="https://i.postimg.cc/PJFnSVmj/011.jpg">
 
-**Si pones solo el nombre del programa, te va a indicar cuales son los argumentos necesarios para que funcione correctamente el programa **
+**Si pones solo el nombre del programa, te va a indicar cuales son los argumentos necesarios para que funcione correctamente el programa**
 
 <img src="https://i.postimg.cc/28MfvJkd/012.jpg">
 
