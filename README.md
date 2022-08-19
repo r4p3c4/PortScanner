@@ -71,7 +71,7 @@ sudo git clone https://github.com/r4p3c4/PortScanner.git
 
 <img src="https://i.postimg.cc/rw429JsB/014.jpg">
 
-**Ahora si pones una IP o un dominio existente si que va a funcionar correctamente, en mi caso estoy escaneando en una maquina virtual a la maquina Metasploitable 3 Windows Server 2008 R2**
+**Ahora si pones una IP o un dominio existente si que va a funcionar correctamente, en mi caso estoy escaneando a la maquina virtual Metasploitable 3 Windows Server 2008 R2**
 
 <img src="https://i.postimg.cc/rpC6BwSg/015.jpg">
 
