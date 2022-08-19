@@ -24,7 +24,7 @@ sudo apt-get install git
 
 <img src="https://i.postimg.cc/0Q080CWk/03.jpg">
 
-**Te descargas el repositorio de PortScanner**
+**Te descargas el repositorio PortScanner**
 
 sudo git clone https://github.com/r4p3c4/PortScanner.git
 
