@@ -57,7 +57,7 @@ sudo git clone https://github.com/r4p3c4/PortScanner.git
 
 <img src="https://i.postimg.cc/6qQNLx4c/010.jpg">
 
-**Listas el contenido de la carpeta actual y verás que ha cambiado de color a verde.**
+**Listas el contenido de la carpeta actual y verás que ha cambiado de color a verde**
 
 <img src="https://i.postimg.cc/PJFnSVmj/011.jpg">
 
