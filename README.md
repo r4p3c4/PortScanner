@@ -34,7 +34,7 @@ sudo git clone https://github.com/r4p3c4/PortScanner.git
 
 <img src="https://i.postimg.cc/Y9HrFPxD/05.jpg">
 
-**Al descargarlo veras un candado en la carpeta que significa que no eres el propietario de la carpeta**
+**Al descargarlo verás un candado en la carpeta que significa que no eres el propietario de la carpeta**
 
 <img src="https://i.postimg.cc/BQ6q2Hx3/06.jpg">
 
