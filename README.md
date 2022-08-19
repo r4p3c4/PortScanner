@@ -10,8 +10,7 @@ Podrás escanear todos puertos de un dominio o dirección IP
 
 sudo apt-get update
 
-<img href="https://i.postimg.cc/15jyBXHq/01.jpg">
-
+<img src="https://i.postimg.cc/15jyBXHq/01.jpg">
 
 **Instalas git**
 
